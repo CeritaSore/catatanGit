@@ -1,1 +1,1 @@
-console.log("saya suka ikan");
+console.log("saya suka main");
